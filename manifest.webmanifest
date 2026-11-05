@@ -1,0 +1,16 @@
+{
+  "name": "Daily Weather",
+  "short_name": "Daily Weather",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d19",
+  "theme_color": "#090e1b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
